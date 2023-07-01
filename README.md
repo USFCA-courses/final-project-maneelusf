@@ -22,7 +22,4 @@ The final video recording resulted in a file of size ~ 500 MB. Hence we have upl
 The youtube video can be found [here](https://www.youtube.com/watch?v=rKxKNDx9z54)
 
 
-You can also found an embed video below.  
-<iframe width="1246" height="701" src="https://www.youtube.com/embed/rKxKNDx9z54" title="Finetuning an LLM using LoRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ***
